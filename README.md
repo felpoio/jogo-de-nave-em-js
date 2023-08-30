@@ -32,8 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi construído pensando em fazer um jogo de nave em javascript utilizando a colisão do jQuery
 
-[Clique aqui para acessar](felpoio.github.io/jogo-de-nave-em-js/)
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
